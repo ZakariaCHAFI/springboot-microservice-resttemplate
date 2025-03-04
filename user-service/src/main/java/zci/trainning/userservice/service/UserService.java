@@ -1,4 +1,4 @@
-package zci.trainning.userservice.service.impl;
+package zci.trainning.userservice.service;
 
 import zci.trainning.userservice.dto.ResponseDto;
 import zci.trainning.userservice.entity.User;
