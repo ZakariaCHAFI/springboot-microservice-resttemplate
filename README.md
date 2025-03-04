@@ -1,4 +1,4 @@
-# microservice-using-resttemplate
+# Spring Boot Microservices Communication Example using RestTemplate
 
 # Getting Started
 
